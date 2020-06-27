@@ -23,8 +23,11 @@ There will be two homework assignments that are in the form of Kaggle competitio
 
 #### Graded Components
 **Concept Quizzes:** 10 points each
+
 **In-class Exercises:** 50 points each
+
 **Homework:** 100 points each
+
 **Participation:** 5 points each day
 
 #### Course Materials
