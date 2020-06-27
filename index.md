@@ -13,7 +13,8 @@ This course covers the fundamental concepts of machine learning, including: clas
 
 **Important Course Documents**
 
-Course Syllabus
+[Course Syllabus](https://github.com/onefishy/Rwanda-Data-Science/blob/master/syllabus.md)
+
 Course Schedule
 
 # Week 1: 
