@@ -1,21 +1,25 @@
 # Course Schedule
 
 #### Week 1
-|June 1st|June 2nd|June 4th|June 5th|
-|--- |--- |--- |--- |
-|Introduction to Machine Learning|Regression Models|Probabilistic and   Non-probabilistic   Models for Regression|Model Generalization  and Uncertainty|
+- *Day 1:* Introduction to Machine Learning
+- *Day 2:* Regression Models
+- *Day 3:* Probabilistic and Non-probabilistic Models for Regression
+- *Day 4:* Model Generalization  and Uncertainty
 
 #### Week 2
-|June 8th|June 9th|June 11th|June 12th|
-|--- |--- |--- |--- |
-|Probabilistic Models for Classification|Non-probabilistic Models   for Classification|Neural Networks   for Regression|Neural Networks   for Classification|
+- *Day 5:* Probabilistic Models for Classification
+- *Day 6:* Non-probabilistic Models   for Classification
+- *Day 7:* Neural Networks   for Regression
+- *Day 8:* Neural Networks   for Classification
 
 #### Week 3
-|June 15th|June 16th|June 18th|June 19th|
-|--- |--- |--- |--- |
-|Model Comparison and Data Manipulation|Dimensionality Reduction|Bayesian Models   for Regression|Bayesian Inference|
+- *Day 9:* Model Comparison and Data Manipulation
+- *Day 10:* Dimensionality Reduction
+- *Day 11:* Bayesian Models   for Regression
+- *Day 12:* Bayesian Inference
 
 #### Week 4
-|June 22nd|June 23rd|June 25th|June 26th|
-|--- |--- |--- |--- |
-|Bayesian Models of Various Data Types|Latent Variable   Models|Latent Variable  Models for   Clustering|Deep Learning   for Image Data|
+- *Day 13:* Bayesian Models of Various Data Types
+- *Day 14:* Latent Variable   Models
+- *Day 15:* Latent Variable  Models for   Clustering
+- *Day 16:* Deep Learning   for Image Data
