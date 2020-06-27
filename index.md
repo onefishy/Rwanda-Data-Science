@@ -25,7 +25,7 @@ This course covers the fundamental concepts of machine learning, including: clas
 
 # Week 3: Bayesian Models
 
-# Week 4: Bayesian and Latent Variable Models
+# Week 4: Latent Variable Models
 
 # Week 5: What Next?
 
