@@ -2,7 +2,7 @@
 
 ### Day 1: Introduction to the Course
 
-- **Lecture Video:** 5:53 minutes [![Alt text](https://img.youtube.com/vi/fy7V2C9Sn3Y/0.jpg)](https://youtu.be/fy7V2C9Sn3Y)
+- **Lecture Video:** [![Alt text](https://img.youtube.com/vi/fy7V2C9Sn3Y/0.jpg)](https://youtu.be/fy7V2C9Sn3Y) (5:53 minutes)
 
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1Q9dHov_r8W5emPx7_kTDx5EMUXT_1uwC/view?usp=sharing)
@@ -13,7 +13,7 @@
 
 1. **Topic 1:** Introduction to Machine Learning and Data Science
 
-  - **Lecture Video:** 12:23 minutes [![Alt text](https://img.youtube.com/vi/UyzUQSSmlKY/0.jpg)](https://youtu.be/UyzUQSSmlKY)
+  - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/UyzUQSSmlKY/0.jpg)](https://youtu.be/UyzUQSSmlKY) (12:23 minutes)
 
   - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1cR8COSU8DB7S8dJsbHc68rDN-EXUezI_/view?usp=sharing)
   - **References:** 
