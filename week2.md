@@ -1,4 +1,4 @@
-# Week 1: Models for Classification
+# Week 2: Models for Classification
 
 ### Day 1: Models for Classification
 
@@ -15,7 +15,7 @@
 
 - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/DxT29iy6rOo/0.jpg)](https://youtu.be/DxT29iy6rOo) (9:45 minutes)
 
-- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1aq6fj3Gv5wW31j9GN1y5u6-7JrGBi7lk/view?usp=sharing)
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1EVGhfpPU_tl1EuI0XkZRfvCO89FqLmLE/view?usp=sharing)
 - **References:** 
   - [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
   
