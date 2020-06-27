@@ -9,6 +9,8 @@
 
 - **In-Class Exercise:** [Introduction to numpy and matplotlib](https://colab.research.google.com/drive/1YA72yLviYk-NrJfkb1sOkMTUVJmS3yqL?usp=sharing)
 
+---
+
 ### Day 2: Introduction to the Course
 
 1. **Topic 1:** Introduction to Machine Learning and Data Science
@@ -18,5 +20,24 @@
   - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1cR8COSU8DB7S8dJsbHc68rDN-EXUezI_/view?usp=sharing)
   - **References:** 
     - "Introduction to Statistical Learning": Chapter 1
+    
+2. **Topic 2:** Linear Regression
 
+- - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/OCuR5p7gWlg/0.jpg)](https://youtu.be/OCuR5p7gWlg) (23:58 minutes)
+
+  - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1YkXHgzs5OJ3SPwmz18X7I6bmqjoIwG02/view?usp=sharing)
+  
+  - **References:** 
+    - [Linear Regression Using Python](https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2)
+    
+3. **Topic 3:** Linear Regression
+
+- - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/MnfjfarIklQ/0.jpg)](https://youtu.be/MnfjfarIklQ) (12:23 minutes)
+
+  - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1XrREBhCfHh7JzWijr0HEJtNS_9tfLX5O/view?usp=sharing)
+  
+  - **References:** 
+    - [Polynomial Regression in Python](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
+    - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
+    - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 
