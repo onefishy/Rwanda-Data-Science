@@ -15,7 +15,7 @@ This course covers the fundamental concepts of machine learning, including: clas
 
 [Course Syllabus](./syllabus.html)
 
-Course Schedule
+[Course Schedule](./schedule.html)
 
 # Week 0: Preparing for the Course
 
