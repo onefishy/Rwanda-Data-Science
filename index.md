@@ -13,19 +13,15 @@ This course covers the fundamental concepts of machine learning, including: clas
 
 **Important Course Documents**
 
-[Course Syllabus](./syllabus.html)
+- [Course Syllabus](./syllabus.html)
+- [Course Schedule](./schedule.html)
 
-[Course Schedule](./schedule.html)
 
-# Week 0: Preparing for the Course
-
-# Week 1: Models for Regression
-
-# Week 2: Models for Classification
-
-# Week 3: Bayesian Models
-
-# Week 4: Latent Variable Models
-
-# Week 5: What Next?
+# Course Materials
+- **Week 0:** [Preparing for the Course](./week0.html)
+- **Week 1:** [Models for Regression](./week1.html)
+- **Week 2:** [Models for Classification](./week2.html)
+- **Week 3:** [Bayesian Models](./week3.html)
+- **Week 4:** [Latent Variable Models](./week4.html)
+- **Week 5:** [What Next?](./week5.html)
 
