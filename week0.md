@@ -13,9 +13,7 @@ Finally, we assume that students have a strong foundation in (calculus and linea
 
 1. [Probability distributions in python](https://www.datacamp.com/community/tutorials/probability-distributions-python)
 
-**Course Preparation Exercise:**
-
-Please review the following colab notebook:
+**Course Preparation Exercise:** Please review the following colab notebook:
 
 [Introduction to Python](https://colab.research.google.com/drive/1Q0cVWiL3HnqBEvlbK6pcQ0zKla1oAOR6)
 
