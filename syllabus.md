@@ -22,13 +22,13 @@ The in-class practical exercises will be collected at the end of each class and 
 There will be two homework assignments that are in the form of Kaggle competitions, where students build predictive models for a single dataset. For full credit, each student must beat the performance of the baseline model (the baseline performance will be provided for each competition). Top three scoring students will receive small scholarship prizes.
 
 #### Graded Components
-**Concept Quizzes:** 10 points each
+- **Concept Quizzes:** 10 points each
 
-**In-class Exercises:** 50 points each
+- **In-class Exercises:** 50 points each
 
-**Homework:** 100 points each
+- **Homework:** 100 points each
 
-**Participation:** 5 points each day
+- **Participation:** 5 points each day
 
 #### Course Materials
 You are encouraged to study from ["An Introduction to Statistical Learning"](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) for the theoretical portion of the course (this textbook is free for you to download). For implementation, you are encouraged to refer to ["Hands on Machine Learning"](https://www.amazon.com/gp/product/1492032646/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=amazonaffi048-20&creative=9325&linkCode=as2&creativeASIN=1492032646&linkId=595a64d942b857cfd493e1e4aac2997b) and ["Python for Data Analysis"](https://www.amazon.com/gp/product/1491957662/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=amazonaffi048-20&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=ca87c0dc52af4fefb49377651641428d). 
