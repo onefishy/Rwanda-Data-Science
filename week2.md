@@ -106,7 +106,6 @@
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1xRGszrVXXdtpJiur2yL9-mQKH2y63ia9/view?usp=sharing)
 - **References:** 
-  - "Introduction to Statistical Learning": Chapter 2.2
   - [Interpretable Neural Networks](https://towardsdatascience.com/interpretable-neural-networks-45ac8aa91411)
   
 #### **Topic 3:**  Regularization for Neural Networks
@@ -116,4 +115,5 @@
 - **References:** 
   - [A Quick Guide on Basic Regularization Methods for Neural Networks](https://medium.com/yottabytes/a-quick-guide-on-basic-regularization-methods-for-neural-networks-e10feb101328)
   - [L1 and L2 Regularization](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
+  
 **In-Class Exercise:** [Neural Networks for Classification](https://colab.research.google.com/drive/1XLJUE69QHJC-o_oCHk3LkspTR4S5iBa_?usp=sharing)
