@@ -21,11 +21,11 @@ This course covers the fundamental concepts of machine learning, including: clas
 
 # Week 1: Models for Regression
 
-# Week 2: Models for Classification and Neural Networks
+# Week 2: Models for Classification
 
-# Week 3: Data Pre-Processing and Bayesian Regression, Classification
+# Week 3: Bayesian Models
 
-# Week 4: More Bayesian Models and Latent Variable Models
+# Week 4: Bayesian and Latent Variable Models
 
 # Week 5: What Next?
 
