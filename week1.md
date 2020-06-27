@@ -88,4 +88,12 @@
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
+  
+  #### **Topic 3:**  Variance Reduction
+- **Lecture Video:** [![Alt text](https://img.youtube.com/vi/zfQJ7uTFhIw/0.jpg)](https://youtu.be/zfQJ7uTFhIw) (7:35 minutes)
 
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1yGiYhbXEjdyUsjtXLa1-M0zyBr4fr1Fd/view?usp=sharing)
+- **References:** 
+  - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
+  - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
+**In-Class Exercise:** [Generalization and Uncertainty](https://colab.research.google.com/drive/1ct6V9JfgyJcdOz5iZ6gmXyxZr-XslU90?usp=sharing)
