@@ -1,4 +1,4 @@
-# Week 1: Bayesian Models
+# Week 3: Bayesian Models
 
 ### Day 1: Data Pre and Post-processing
 
