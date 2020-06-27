@@ -13,3 +13,17 @@
   - [Data Science Africa](http://www.datascienceafrica.org)
   - [North African Summer School on Machine Learning](https://www.nassma-ml.org)
   - [Deep Learning Indaba](https://www.nassma-ml.org)
+  
+  
+**In-Class Exercise:** Today's activity is an ***ideathon***.
+
+A ***hackathon*** is an intense 1 or 2 day event in which those working in tech (e.g. programmer, graphic designers, data scientists) work with domain experts to collaborate on software projects.
+
+The goal of a hackathon is to create usable software or hardware with the goal of producing a functioning product by the end of the event. Hackathons tend to have a specific focus, for example, on solving a single real-life problem.
+
+Find a hackathon near you: https://www.hackathon.com
+
+An ***ideathon*** is like a hackathon wherein the participants focus on outlining solutions to real-life problems without implementing the solutions. The goal of an ideathon is to produce a concrete plan of action for solving a real-life problem at the end of the event.
+Read the following document to prepare for the ideathon:
+
+[Ideathon Document](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)
