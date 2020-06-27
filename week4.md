@@ -9,6 +9,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/19kBIkDiFJldrd6SN-rhQqeBXcF_5Aebe/view?usp=sharing)
 - **References:** 
   - [Understanding Bayes: Updating Priors using Likelihoods](https://alexanderetz.com/2015/07/25/understanding-bayes-updating-priors-via-the-likelihood/)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AMSwPdajenEcuK1_IeBDN5-0yJT37t9e/view?usp=sharing)
   
 #### **Topic 2:** Poisson-Gamma Model for Count Data
 
@@ -17,6 +18,8 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1UXz35JMbh1V16gfS90I8HnMz2IlxpTfd/view?usp=sharing)
 - **References:** 
   - [Deriving the Poisson Distribution from the Binomial Distribution](https://medium.com/@andrew.chamberlain/deriving-the-poisson-distribution-from-the-binomial-distribution-840cc1668239)
+  
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1JSKGsgwUnTFc-tyfqlm6d7kHzMyLlqKX/view?usp=sharing)
   
 
 **In-Class Exercise:** [The Beta-Binomial Model](https://colab.research.google.com/drive/1zow966jzS7yxJIGpls-f7r2Qj_QTakL6?usp=sharing)
@@ -33,6 +36,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1ljzjRLfRRwkbxeO2Kvw6UybGhLFRPqyh/view?usp=sharing)
 - **References:** 
   - [Deep Latent Variable Models: Unravel Hidden Structures](https://towardsdatascience.com/deep-latent-variable-models-unravel-hidden-structures-a5df0fd32ae2)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1ML7CeVQJYYYZ1tXGKqGIwgFItmXBnQ7X/view?usp=sharing)
     
 #### **Topic 2:**  Expectation Maximization
 
@@ -40,6 +44,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1Cyj-TziuLw_87xWlTeXcjlm4rNLy9vcT/view?usp=sharing)
 - **References:** 
   - [Inference using EM algorithm](https://towardsdatascience.com/inference-using-em-algorithm-d71cccb647bc)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1AZZ_HPO6hefS5rTmiHkDiTp4aL5k8_Bb/view?usp=sharing)
   
 #### **Topic 3:**  Topic Models
 
@@ -47,6 +52,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1LdXBIZ-gX55schFOhUXXZIrsiI16qe7r/view?usp=sharing)
 - **References:** 
   - [A Practical Introduction to NMF](https://mlexplained.com/2017/12/28/a-practical-introduction-to-nmf-nonnegative-matrix-factorization/)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1amx8ptajhkhuSHqt1NOYzrpmmeDv1JUz/view?usp=sharing)
 
 
 **In-class Exercise:** [Nonnegative Matrix Factorization Topic Models](https://colab.research.google.com/drive/1oo62ng3GruCUibgxE9hiI3dXdfUDTZmi?usp=sharing)
@@ -61,6 +67,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1uScdtqz6BAZggsWiYN36NNVogpVV_fMs/view?usp=sharing)
 - **References:** 
   - [Expectation Maximization for Gaussian Mixture Models](https://medium.com/@jonathan_hui/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1lcdkr9JHY-HbDHm_sEmunHfhoie7WMe6/view?usp=sharing)
     
 #### **Topic 2:** Non-Probabilistic Models for Clustering
 
@@ -69,6 +76,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/15KRZHM47tMDLTjM2kuFx1VQlQAq3L-JS/view?usp=sharing)
 - **References:** 
   - [How Does DBScan Clustering Algorithm Work?](https://medium.com/@shritamkumarmund.98/how-dbscan-algorithm-works-2b5bef80fb3)
+- **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1o_gfBFAr0FAeGVEK_PM_ydUOEYe8yXhV/view?usp=sharing)
         
 **In-class Exercise:** [Clustering Algorithms](https://colab.research.google.com/drive/1qF8NH9S1h5jk5V3LhVVlxdwF3WmF3V_r?usp=sharing)
 
