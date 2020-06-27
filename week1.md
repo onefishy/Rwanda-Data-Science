@@ -68,3 +68,24 @@
   - [K-Neighbors Regression Analysis in Python](https://medium.com/analytics-vidhya/k-neighbors-regression-analysis-in-python-61532d56d8e4)
     
 **In-class Exercise:** [Probabilistic Models and Non-Probabilistic Models for Regression](https://colab.research.google.com/drive/1tQ39xTxJTVeUnU_-UYushOs9mnJAk3hP?usp=sharing)
+
+---
+
+### Day 4: Model Confidence and Uncertainty
+
+#### **Topic 1:**  Confidence and Prediction Intervals
+- **Lecture Video:** [![Alt text](https://img.youtube.com/vi/0k0DfJro5I8/0.jpg)](https://youtu.be/0k0DfJro5I8) (11:15 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hmBOt5lOv1Aksgy2CmoG1XvZDgZOUaq0/view?usp=sharing)
+- **References:** 
+  - [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
+  - [Bootstrapping for Linear Regression](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
+  
+#### **Topic 2:**  Bias versus Variance
+- **Lecture Video:** [![Alt text](https://img.youtube.com/vi/eTOxnGIiA6k/0.jpg)](https://youtu.be/eTOxnGIiA6k) (10:45 minutes)
+
+- **Lecture Slides:** [Slides](https://drive.google.com/file/d/1wVMVJ7rU0HjD_DCOP_yjPZcqJCPeA1Gm/view?usp=sharing)
+- **References:** 
+  - "Introduction to Statistical Learning": Chapter 2.2
+  - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
+
