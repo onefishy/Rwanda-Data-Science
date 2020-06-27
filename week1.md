@@ -96,4 +96,5 @@
 - **References:** 
   - [Regularization](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
+  
 **In-Class Exercise:** [Generalization and Uncertainty](https://colab.research.google.com/drive/1ct6V9JfgyJcdOz5iZ6gmXyxZr-XslU90?usp=sharing)
