@@ -59,7 +59,7 @@
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1hxPra-g7I343V27VBddHJZfc4SI7j1dy/view?usp=sharing)
 - **References:** 
   - "Introduction to Statistical Learning": Chapter 8.1.1
-    
+  
 #### **Topic 3:** k-Nearest Neighbor Regression
 - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/sFtbCGWorj4/0.jpg)](https://youtu.be/sFtbCGWorj4) (7:44 minutes)
 
@@ -89,7 +89,7 @@
   - "Introduction to Statistical Learning": Chapter 2.2
   - [Understanding the Bias Variance Trade-off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-and-visualizing-it-with-example-and-python-code-7af2681a10a7)
   
-  #### **Topic 3:**  Variance Reduction
+#### **Topic 3:**  Variance Reduction
 - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/zfQJ7uTFhIw/0.jpg)](https://youtu.be/zfQJ7uTFhIw) (7:35 minutes)
 
 - **Lecture Slides:** [Slides](https://drive.google.com/file/d/1yGiYhbXEjdyUsjtXLa1-M0zyBr4fr1Fd/view?usp=sharing)
