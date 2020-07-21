@@ -3,9 +3,9 @@
 
 **Course Instructors**
 
-- Dr. Weiwei Pan (Harvard University) 
-- Dr. Melanie Pradier-Fernandez (Harvard University)
-- Dr. Pavlos Protopapas (Harvard University)
+- [Dr. Weiwei Pan](https://onefishy.github.io) (Harvard University) 
+- [Dr. Melanie Pradier-Fernandez](https://melaniefp.github.io) (Harvard University)
+- [Dr. Pavlos Protopapas](https://iacs.seas.harvard.edu/people/pavlos-protopapas) (Harvard University)
 
 **What is this Course?**
 
