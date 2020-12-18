@@ -36,7 +36,7 @@
 
 ---
 
-### Day 2: Evaluating Classifiers
+### Day 2: Dimensionality Reduction
 
 #### **Topic 1:** Variable Selection
 
