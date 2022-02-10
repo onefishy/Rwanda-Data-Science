@@ -58,7 +58,7 @@
   
 - **Concept Quiz:** [Quiz](https://drive.google.com/file/d/1tAfGMbMGWYyAmhSZSQfnA4LhWC8bifuw/view?usp=sharing)
     
-#### **Topic 2:** Probabilistic Models for Regression
+#### **Topic 2:** Non-Probabilistic Models for Regression
 
 - **Lecture Video:** [![Alt text](https://img.youtube.com/vi/xfjX_uGRC0c/0.jpg)](https://youtu.be/xfjX_uGRC0c) (11:11 minutes)
 
